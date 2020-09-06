@@ -156,4 +156,4 @@ public int binarySearch(int [] array, int target) {
 
 ## 牛顿迭代法
 
-[牛顿迭代法]: https://www.beyond3d.com/content/articles/8/
+https://www.beyond3d.com/content/articles/8/
